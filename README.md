@@ -3,7 +3,7 @@
 <hr />
 <br />
 
-Hi, I'm [João Augusto](https://joaoaugusto.vercel.app/), a passionate full-stack developer. My passion is to develop complete and complex software with increasing challenges. I've built complex and sophisticated applications with state-of-the-art architectures.
+Hi, I'm João Augusto, a passionate full-stack developer. My passion is to develop complete and complex software with increasing challenges. I created sophisticated applications with amazing architectures from scratch.
 
   <img align="right" alt="GIF" src="https://icodebreakers.org/blog/wp-content/uploads/2017/12/logo-maker-1.gif" width="500" height="374.36" />
   
