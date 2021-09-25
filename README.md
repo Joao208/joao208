@@ -10,7 +10,6 @@ Hi, I'm [João Augusto](https://joaoaugusto.vercel.app/), a passionate full-stac
 **My principal projects:**
   
 - [Content Moderation Using Javascript](https://github.com/LostTechSoftware/bk_moderation);
-- [Mobile App Using React Native](https://github.com/LostTechSoftware/mb_clients);
 - [Dashboard using ReactJS](https://github.com/LostTechSoftware/fe_partners_dashboard);
 - [Background worker using node-cron](https://github.com/LostTechSoftware/bk_jobs);
 - [Backoffice using Typescript](https://github.com/LostTechSoftware/bk_backoffice);
