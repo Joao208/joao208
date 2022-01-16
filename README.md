@@ -5,7 +5,7 @@
 
 Hi, I'm João Augusto, a passionate full-stack developer. My passion is to develop complete and complex software with increasing challenges. I created sophisticated applications with amazing architectures from scratch.
 
-  <img align="right" alt="GIF" src="https://icodebreakers.org/blog/wp-content/uploads/2017/12/logo-maker-1.gif" width="500" height="374.36" />
+  <img align="right" alt="GIF" src="![image](https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966)" width="500" height="374.36" />
   
 **My principal projects:**
   
