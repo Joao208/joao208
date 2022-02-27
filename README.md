@@ -27,6 +27,7 @@ Always willing to learn and develop new skills.
 - [HackerRank](https://www.hackerrank.com/augustoj311?hr_r=1)
 - [StackOverflow](https://stackoverflow.com/users/18095349/jo%c3%a3o-barros)
 - [Dribbble](https://dribbble.com/joao208)
+- [Medium](https://medium.com/@joao208)
 
 **Languages and Tools:**
 
