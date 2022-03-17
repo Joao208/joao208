@@ -1,4 +1,4 @@
-### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <hr />
 
@@ -11,7 +11,7 @@ I have experience with agile methodologies and microservices architecture with m
 Always willing to learn and develop new skills.
 
   
-**My principal projects:**
+### My principal projects:
   
 - [Content Moderation Using Javascript](https://github.com/LostTechSoftware/bk_moderation);
 - [Dashboard using ReactJS](https://github.com/LostTechSoftware/fe_partners_dashboard);
@@ -21,7 +21,7 @@ Always willing to learn and develop new skills.
 - [Artificial Intelligence Using JavaScript](https://github.com/LostTechSoftware/bk_ai);
 
 
-**Other Links**
+### Other Links
 
 - [Linkedin](https://www.linkedin.com/in/joao208/?locale=en_US)
 - [HackerRank](https://www.hackerrank.com/augustoj311?hr_r=1)
@@ -29,7 +29,7 @@ Always willing to learn and develop new skills.
 - [Dribbble](https://dribbble.com/joao208)
 - [Medium](https://medium.com/@joao208)
 
-**Languages and Tools:**
+### Languages and Tools:
 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
