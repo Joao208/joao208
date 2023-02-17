@@ -6,12 +6,11 @@ Welcome to my GitHub!
 
 ![image](https://user-images.githubusercontent.com/59159025/149661580-5d53332f-3f2c-4b57-b9c3-d186d3c46629.gif)
 
-I'm a Full Stack Software Engineer passionate about what I do with over 3 years of frontend and backend development experience. Using javascript and typescript development languages.
+As a passionate Full Stack Software Engineer with over 3 years of experience in both frontend and backend development, I thrive on creating exceptional digital experiences. My expertise in javascript and typescript development languages, combined with my experience in agile methodologies and microservices architecture, has allowed me to successfully serve over 150k users.
 
-I have experience with agile methodologies and microservices architecture with more than 150k users.
-Always willing to learn and develop new skills.
+I'm a constant learner, always seeking to improve and develop new skills to stay at the forefront of the industry. I am also an avid contributor to the open source community, with a portfolio of open projects that you can collaborate on or consume to enhance your own work.
 
-Here you can find several open projects of mine as well as several open source ones, feel free to collaborate or consume and use any of them!
+Join me on my journey to push the boundaries of what's possible in software engineering and create innovative solutions that make a real impact.
 
   
 ### 📚 My principal projects
