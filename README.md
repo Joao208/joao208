@@ -6,7 +6,7 @@ Welcome to my GitHub!
 
 ![image](https://www.allc.dev/imagens/home.gif)
 
-As a passionate Full Stack Software Engineer with over 3 years of experience in both frontend and backend development, I thrive on creating exceptional digital experiences. My expertise in javascript and typescript development languages, combined with my experience in agile methodologies and microservices architecture, has allowed me to successfully serve over 150k users.
+As a passionate Full Stack Software Engineer with over 4 years of experience in both frontend and backend development, I thrive on creating exceptional digital experiences. My expertise in javascript and typescript development languages, combined with my experience in agile methodologies and microservices architecture, has allowed me to successfully serve over 150k users.
 
 I'm a constant learner, always seeking to improve and develop new skills to stay at the forefront of the industry. I am also an avid contributor to the open source community, with a portfolio of open projects that you can collaborate on or consume to enhance your own work.
 
